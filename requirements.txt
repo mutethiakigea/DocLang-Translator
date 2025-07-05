@@ -1,0 +1,4 @@
+Flask
+deep-translator
+python-docx
+PyMuPDF
